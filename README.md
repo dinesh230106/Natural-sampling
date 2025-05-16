@@ -1,5 +1,5 @@
 
-# EX-02 Name: DINESH KUMAR A (212223060057)
+# EX-01.b Name: DINESH KUMAR A (212223060057)
 # Write a simple Natural sampling program using Python.
 
 
